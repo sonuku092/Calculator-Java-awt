@@ -3,7 +3,6 @@
  to compile it use
  javac MyCalculator.java
  to use the calculator do this
- java MyCalculator
  **********************************************/
 
 import java.awt.*;
